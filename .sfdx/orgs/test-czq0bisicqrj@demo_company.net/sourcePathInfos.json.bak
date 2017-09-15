@@ -1065,10 +1065,10 @@
             "sourcePath": "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1505499079392,
-            "changeTime": 1505499079392,
-            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae"
+            "size": 618,
+            "modifiedTime": 1505498124487,
+            "changeTime": 1505498124487,
+            "contentHash": "d6d6a8002e11d27e36a22b0a962b783aaa96b321"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 395,
-            "modifiedTime": 1505499079391,
-            "changeTime": 1505498124485,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 395,
+            "modifiedTime": 1505498124485,
+            "changeTime": 1505498124485,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -1269,14 +1269,14 @@
     [
         "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1505497531524,
+            "changeTime": 1505497531524,
+            "contentHash": "11c2b8a84a35d342b8fef5157b3ac5da88f548fc",
             "isMetadataFile": false,
-            "size": 383,
-            "modifiedTime": 1505499079401,
-            "changeTime": 1505499079401,
-            "contentHash": "f2ee4377270d6448b23d143d39c41615c0db3570"
+            "state": "u"
         }
     ],
     [
@@ -1312,10 +1312,10 @@
             "sourcePath": "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 794,
-            "modifiedTime": 1505499079401,
-            "changeTime": 1505499079401,
-            "contentHash": "7ea26d0218e1bee785d3c0d0219134808cadebdd"
+            "size": 796,
+            "modifiedTime": 1505498124515,
+            "changeTime": 1505498124515,
+            "contentHash": "490ff14d086ec196e59a26b763bc807877d9a8cb"
         }
     ],
     [
@@ -1360,14 +1360,14 @@
     [
         "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\sjanis\\Desktop\\forcedx\\trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1505498124489,
             "changeTime": 1505498124489,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
         }
     ],
     [
